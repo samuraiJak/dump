@@ -1,4 +1,4 @@
 # hello-world
-This is a Repository.
+This is a Repository
 
 LOL
